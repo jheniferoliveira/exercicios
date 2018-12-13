@@ -1,0 +1,2 @@
+# exercicios
+exercicios c# feitos 
