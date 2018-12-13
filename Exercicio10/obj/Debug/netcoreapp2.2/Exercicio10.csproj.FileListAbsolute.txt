@@ -1,0 +1,11 @@
+C:\Users\Jhenifer\Exercicio10\bin\Debug\netcoreapp2.2\Exercicio10.deps.json
+C:\Users\Jhenifer\Exercicio10\bin\Debug\netcoreapp2.2\Exercicio10.runtimeconfig.json
+C:\Users\Jhenifer\Exercicio10\bin\Debug\netcoreapp2.2\Exercicio10.runtimeconfig.dev.json
+C:\Users\Jhenifer\Exercicio10\bin\Debug\netcoreapp2.2\Exercicio10.dll
+C:\Users\Jhenifer\Exercicio10\bin\Debug\netcoreapp2.2\Exercicio10.pdb
+C:\Users\Jhenifer\Exercicio10\obj\Debug\netcoreapp2.2\Exercicio10.csprojAssemblyReference.cache
+C:\Users\Jhenifer\Exercicio10\obj\Debug\netcoreapp2.2\Exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Jhenifer\Exercicio10\obj\Debug\netcoreapp2.2\Exercicio10.AssemblyInfoInputs.cache
+C:\Users\Jhenifer\Exercicio10\obj\Debug\netcoreapp2.2\Exercicio10.AssemblyInfo.cs
+C:\Users\Jhenifer\Exercicio10\obj\Debug\netcoreapp2.2\Exercicio10.dll
+C:\Users\Jhenifer\Exercicio10\obj\Debug\netcoreapp2.2\Exercicio10.pdb

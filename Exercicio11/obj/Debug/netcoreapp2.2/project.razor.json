@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Jhenifer\\Exercicio11\\Exercicio11.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

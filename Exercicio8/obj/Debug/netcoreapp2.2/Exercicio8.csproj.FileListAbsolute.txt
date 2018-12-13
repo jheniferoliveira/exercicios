@@ -1,0 +1,11 @@
+C:\Users\Jhenifer\Exercicio8\bin\Debug\netcoreapp2.2\Exercicio8.deps.json
+C:\Users\Jhenifer\Exercicio8\bin\Debug\netcoreapp2.2\Exercicio8.runtimeconfig.json
+C:\Users\Jhenifer\Exercicio8\bin\Debug\netcoreapp2.2\Exercicio8.runtimeconfig.dev.json
+C:\Users\Jhenifer\Exercicio8\bin\Debug\netcoreapp2.2\Exercicio8.dll
+C:\Users\Jhenifer\Exercicio8\bin\Debug\netcoreapp2.2\Exercicio8.pdb
+C:\Users\Jhenifer\Exercicio8\obj\Debug\netcoreapp2.2\Exercicio8.csprojAssemblyReference.cache
+C:\Users\Jhenifer\Exercicio8\obj\Debug\netcoreapp2.2\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Jhenifer\Exercicio8\obj\Debug\netcoreapp2.2\Exercicio8.AssemblyInfoInputs.cache
+C:\Users\Jhenifer\Exercicio8\obj\Debug\netcoreapp2.2\Exercicio8.AssemblyInfo.cs
+C:\Users\Jhenifer\Exercicio8\obj\Debug\netcoreapp2.2\Exercicio8.dll
+C:\Users\Jhenifer\Exercicio8\obj\Debug\netcoreapp2.2\Exercicio8.pdb
